@@ -13,9 +13,12 @@
     "@react-three/drei": "^9.66.3",
     "@react-three/fiber": "^8.13.0",
     "color": "^4.2.3",
+    "flowbite": "^1.6.5",
+    "flowbite-react": "^0.4.4",
     "framer-motion": "^10.12.7",
     "maath": "^0.5.3",
     "react": "^18.2.0",
+    "react-color": "^2.19.3",
     "react-dom": "^18.2.0",
     "three": "^0.152.2",
     "valtio": "^1.10.5"
